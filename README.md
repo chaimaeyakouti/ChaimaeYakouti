@@ -1,6 +1,6 @@
 # Hello, I'm Chaimae Yakouti 👋
 
-### Advanced Software Engineering Student foor Digital Services @ INPT (ASEDS)
+### Advanced Software Engineering Student for Digital Services @ INPT (ASEDS)
 I am a software engineering student specializing in designing robust digital services, data structures, and interactive environments. My work bridges the gap between efficient backend logic and real-world simulation solutions.
 
 ---
