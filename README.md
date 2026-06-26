@@ -42,4 +42,4 @@ An academic module project focused on structured logic and intelligent allocatio
 If you are a recruiter, a fellow engineer, or looking to collaborate on impactful software, let's get in touch!
 
 *   **Professional Network:** [Connect on LinkedIn](https://www.linkedin.com/in/chaimae-yakouti)
-*   **Email:** `chaimaeyakouti.dev@gmail.com` *(Feel free to update with your professional email!)*
+*   **Email:** `chaimaeyakouti@gmail.com` 
