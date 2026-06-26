@@ -68,7 +68,3 @@ If you're looking for an engineering mind that thrives on organized complex syst
 *   [Connect on LinkedIn](https://www.linkedin.com/in/chaimae-yakouti)
 *   **Professional Email:** `chaimaeyakouti@gmail.com` 
 
-***
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chaimaeyakouti&label=Profile%20Views&color=blue&style=flat-square" alt="chaimaeyakouti" />
-</p>
