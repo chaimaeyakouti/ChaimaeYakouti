@@ -81,7 +81,7 @@ fun_fact    : I enjoy turning complex algorithms into elegant user interfaces
       <h3 align="center">🎓 PFA Affectation AI</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Stack-Node.js%20%7C%20MySQL%20%7C%20TypeScript-6C63FF?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Stack-FastAPI%20%7C%20MySQL%20%7C%20TypeScript-6C63FF?style=flat-square"/>
       </p>
       <p>
         Intelligent platform for assigning student groups to final-year projects at INPT.
