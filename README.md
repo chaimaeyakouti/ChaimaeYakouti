@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00D2FF,100:3A7BD5&height=200&section=header&text=Hi%20there%2C%20I'm%20Chaimae YAKOUTI%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn&%20Engineering%20Student%20%40%20INPT&descSize=18&descAlignY=58&descColor=d0e8ff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00D2FF,100:3A7BD5&height=200&section=header&text=Hi%20there%2C%20I'm%20Chaimae%20YAKOUTI%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineering%20Student%20%40%20INPT&descSize=18&descAlignY=58&descColor=d0e8ff"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
@@ -11,9 +11,9 @@
 <br/>
 
 <!-- SOCIAL BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaimae-yakouti/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChaimaeCodes)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaimaeyakouti@gmail.com)
 
 </div>
 
@@ -22,7 +22,7 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name        : Chaimae YAKOUTI 
+name        : Chaimae Yakouti
 location    : Morocco 🇲🇦
 school      : INPT — Institut National des Postes et Télécommunications
 focus       : Full-Stack Development  · Intelligent Algorithms
@@ -38,14 +38,14 @@ fun_fact    : I enjoy turning complex algorithms into elegant user interfaces
 
 | 🌐 Full-Stack Solutions | ⚡ Backend & APIs | 🧠 Algorithms & AI |
 |:---:|:---:|:---:|
-| Building end-to-end web platforms with intuitive UIs and reliable backends | Designing REST APIs with FastAPI, handling auth, DB, and business logic | Implementing smart allocation systems using graph-based & matching algorithms |
-| `React` `TypeScript` `Tailwind` `JavaScript` | `FastAPI` `Node.js` `Express` `MySQL` `Docker` | `Gale-Shapley` `Jaccard` `Python` |
+| Building end-to-end web platforms with intuitive UIs and reliable backends | Designing REST APIs, handling auth, DB, and business logic | Implementing smart allocation systems using graph-based & matching algorithms |
+| `React` `TypeScript` `Tailwind` | `Node.js` `Express` `MySQL` | `Gale-Shapley` `Jaccard` `Python` |
 
 </div>
 
 ---
 
-##  Technical Ecosystem
+## 🛠️ Technical Ecosystem
 
 <div align="center">
 
@@ -57,21 +57,21 @@ fun_fact    : I enjoy turning complex algorithms into elegant user interfaces
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ### ⚙️ Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🗄️ Databases & DevOps
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-##  Highlighted Projects
+## 🚀 Highlighted Projects
 
 <div align="center">
 
@@ -81,29 +81,29 @@ fun_fact    : I enjoy turning complex algorithms into elegant user interfaces
       <h3 align="center">🎓 PFA Affectation AI</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Stack-React%20%7C%20FastAPI%20%7C%20MySQL-6C63FF?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Stack-Node.js%20%7C%20MySQL%20%7C%20TypeScript-6C63FF?style=flat-square"/>
       </p>
       <p>
-        Intelligent platform for assigning student groups to final-year projects at INPT. 
-        Core engine is a <b>modified Gale-Shapley algorithm</b> with composite scoring 
+        Intelligent platform for assigning student groups to final-year projects at INPT.
+        Core engine is a <b>modified Gale-Shapley algorithm</b> with composite scoring
         (vow priority + Jaccard skill-fit + supervisor workload balancing).
       </p>
       <p>
-        <b>Key challenges:</b> Multi-criteria optimization · Fairness in matching · Scalability with Docker
+        <b>Key challenges:</b> Multi-criteria optimization · Fairness in matching · Rule-based allocation logic
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📋 YOUR_PROJECT_NAME</h3>
+      <h3 align="center">📋 App Gestion des Stages</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Stack-YOUR%20STACK-00D2FF?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Stack-Node.js%20%7C%20Express%20%7C%20MySQL-00D2FF?style=flat-square"/>
       </p>
       <p>
-        Description of your second project. What problem does it solve? Who is it for?
-        Replace this with your real project details.
+        A relational web application built to manage student internship workflows at scale.
+        Streamlines administrative processes with organized data relations and a structured backend.
       </p>
       <p>
-        <b>Key challenges:</b> Challenge 1 · Challenge 2 · Challenge 3
+        <b>Key challenges:</b> Relational schema design · Admin workflow automation · Reliable backend architecture
       </p>
     </td>
   </tr>
@@ -113,16 +113,16 @@ fun_fact    : I enjoy turning complex algorithms into elegant user interfaces
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChaimaeCodes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaimaeCodes&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaimaeCodes&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
 
 </div>
 
@@ -132,10 +132,9 @@ fun_fact    : I enjoy turning complex algorithms into elegant user interfaces
 
 <div align="center">
 
-🎓 **Final-year project defended** — Intelligent PFA assignment system at INPT  
 🧠 **Algorithm design** — Modified Gale-Shapley with Jaccard similarity scoring  
-🐳 **Deployed with Docker** — Containerized full-stack architecture  
-📚 **Deep dives** — HBase, MongoDB, Distributed Systems, NP-hardness proofs  
+📋 **Internship management platform** — Full relational backend with structured workflows  
+📚 **Deep dives** — Distributed Systems, MongoDB, HBase, NP-hardness & optimization  
 
 </div>
 
@@ -147,7 +146,7 @@ fun_fact    : I enjoy turning complex algorithms into elegant user interfaces
 
 If you're looking for a driven engineer who bridges **algorithmic thinking** with **full-stack execution**, let's talk!
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaimae-yakouti/)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaimaeyakouti@gmail.com)
 
 </div>
