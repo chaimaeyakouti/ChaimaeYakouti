@@ -117,9 +117,11 @@ fun_fact    : I enjoy turning complex algorithms into elegant user interfaces
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chaimaeyakouti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+[<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chaimaeyakouti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaimaeyakouti&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+](https://github-readme-stats.vercel.app/api?username=chaimaeyakouti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=chaimaeyakouti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chaimaeyakouti&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
