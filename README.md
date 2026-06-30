@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00D2FF,100:3A7BD5&height=200&section=header&text=Hi%20there%2C%20I'm%20Chaimae%20YAKOUTI%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineering%20Student%20%40%20INPT&descSize=18&descAlignY=58&descColor=d0e8ff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00D2FF,100:3A7BD5&height=200&section=header&text=Hi%20there%2C%20I'm%20Chaimae%20Yakouti%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineering%20Student%20%40%20INPT&descSize=18&descAlignY=58&descColor=d0e8ff"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
@@ -117,14 +117,12 @@ fun_fact    : I enjoy turning complex algorithms into elegant user interfaces
 
 <div align="center">
 
-[<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chaimaeyakouti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaimaeyakouti&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-](https://github-readme-stats.vercel.app/api?username=chaimaeyakouti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chaimaeyakouti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaimaeyakouti&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=chaimaeyakouti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chaimaeyakouti&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chaimaeyakouti&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
 
 </div>
 
@@ -136,7 +134,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=chaimaeyakouti&la
 
 🧠 **Algorithm design** — Modified Gale-Shapley with Jaccard similarity scoring  
 📋 **Internship management platform** — Full relational backend with structured workflows  
-📚 **Deep dives** —  MongoDB, HBase, NP-hardness & optimization  
+📚 **Deep dives** —  HBase, NP-hardness & optimization  
 
 </div>
 
